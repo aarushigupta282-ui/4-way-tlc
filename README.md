@@ -4,7 +4,7 @@ This project implements a **4-way traffic light controller** using Verilog HDL a
 
 ---
 
-## 🔹 Key Highlights  
+## Key Highlights  
 - Designed **RTL code** for a 4-way traffic light controller in Verilog.  
 - Verified functionality using a **testbench and simulation tools**.  
 - Performed **synthesis** to generate gate-level netlist.  
@@ -14,27 +14,24 @@ This project implements a **4-way traffic light controller** using Verilog HDL a
 
 ---
 
-## 🔹 Tools Used  
+## Tools Used  
 - Verilog HDL  
 - [Cadence Xcilium, Genus, Innovus]  
 
 ---
 
-## 🔹 Deliverables  
-- ✅ Verilog RTL code  
-- ✅ Testbench and simulation results  
-- ✅ Synthesized netlist  
-- ✅ Layout diagrams (placement, routing)  
-- ✅ Final GDSII file  
+## Deliverables  
+- Verilog RTL code  
+- Testbench and simulation results  
+- Synthesized netlist  
+- Layout diagrams (placement, routing)  
+- Final GDSII file  
 
 ---
 
-## 🔹 Applications  
+## Applications  
 - Digital circuit design & verification practice  
 - ASIC flow learning project  
  
 
----
-
-## 📸 Project Snapshots  
-(Add your waveform screenshots, layout images, and GDSII snapshots here)  
+  
